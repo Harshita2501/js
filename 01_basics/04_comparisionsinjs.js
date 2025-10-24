@@ -15,3 +15,4 @@ console.log(null>=0);//true because null is convert into number and treated as 0
 //two types: primitive and non primitive(reference)
 //primitive: number, string, boolean, null, undefined, symbol, number, bigInt
 //non primitive: object, array, function
+//typeof operator is used to check datatype of variable
