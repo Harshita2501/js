@@ -1,5 +1,5 @@
 // 'this' jo h vo current values ki baat kar tha h aur unna access kar tha h 
-//  jab globally kuchh na ho tho 'this' node ma {} ya deta h means empty string but ya hum console pa kara tho vo windows deta h means global windows aata h vaha 
+//  jab globally kuchh na ho tho 'this' node ma {} ya deta h means empty string but ya hum console pa kara tho vo window object deta h means global windows aata h vaha 
 const user = {
     username: "harshita",
     price: 999,
